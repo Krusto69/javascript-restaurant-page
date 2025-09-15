@@ -1,0 +1,26 @@
+.icon {
+    height: 200px;
+    width: 200px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    gap: 50px;
+}
+
+.content>*{
+    font-size: 200px;
+}
+
+.header {
+    display:flex;
+    justify-content: center;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+}
